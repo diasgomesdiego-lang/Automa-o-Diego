@@ -55,33 +55,44 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 ### Minha Tarefa Real
 
 _Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
-
+Escolhi a tarefa de análise e resumo do mercado financeiro usando sites de informações financeiras trazendo um resumo da semana.
 ### Meus Atalhos
 
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Utilizei do kit o prompt, como é informação financeira estão já fixos somente trazendo as informações que preciso.
+```text
+OBJETIVO
+
+Preciso ter uma visão de como o mercado financeiro operou na semana anterior, da bolsa de valores, perfomance do dólar, performance dos indexadores de mercado e ter um resumo das principais informações que podem impactar a semana com uma visão do mercado financeiro e da politica.```
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
+CONTEXTO
 
-```text
-Cole aqui o seu segundo atalho, já adaptado.
-```
+Esse material consiste em um mais resumido para a gerencia financeira e o outro mais estruturado e detalhado para o diretor financeiro```
 
 ### Minha Delegação
 
-```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+```text]
+RECURSOS
+
+[Quais informações, documentos ou ferramentas podem ser usados?]
+
+Poderá ser usado noticias veiculadas por sites considerados financeiros, trazendo dashboards dos índices e resumos dos principais indexadores financeiros
 ```
 
 ### O Plano da IA
 
 _Cole o print do plano e conte o que você ajustou antes de a IA começar._
+Não houve necessidade de ajustes
 
 ### O Resultado
 
 _Cole o print do resultado e conte como você conferiu antes de usar._
+<img width="937" height="793" alt="{A8BDE683-F6B4-4F54-8E89-15B39A9DD318}" src="https://github.com/user-attachments/assets/07423db2-d6aa-474b-a715-632ded33bdb4" />
+
 
 ### Como Foi para Você
 
 _Conte em poucas linhas o que mudou no seu dia a dia._
+
+Facilitou a forma como consigo consolidar essas informações, otimizando meu tempo.
